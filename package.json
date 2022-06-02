@@ -1,0 +1,25 @@
+{
+  "name": "task-app",
+  "version": "1.0.0",
+  "description": "Async task application ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orkalev/Task-app-with-Emitter.git"
+  },
+  "author": "Or Kalev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orkalev/Task-app-with-Emitter/issues"
+  },
+  "homepage": "https://github.com/orkalev/Task-app-with-Emitter#readme",
+  "devDependencies": {
+    "body-parser": "^1.20.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "mongoose": "^6.3.5"
+  }
+}
